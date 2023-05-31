@@ -48,7 +48,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 4-bit Count Down Counter
-### Procedure
+
 ###  PROCEDURE
 #### 1.Create a new project in QuartusII software. 
 #### 2.Name the project as uc for upcounter and dc for down counter. 
